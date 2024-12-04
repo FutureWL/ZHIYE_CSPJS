@@ -194,6 +194,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "99_有趣的小程序", "99
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "00_五星红旗", "99_有趣的小程序\00_五星红旗\00_五星红旗.vcxproj", "{56D4CDCC-6DA3-49BA-BACB-D040A6FE2769}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "作业_01_简单算数表达式求值", "00_C++语言\06_函数\01_函数\作业_01_简单算数表达式求值\作业_01_简单算数表达式求值.vcxproj", "{61422479-D02E-47E6-A77A-53ED760DBAA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -514,6 +516,14 @@ Global
 		{56D4CDCC-6DA3-49BA-BACB-D040A6FE2769}.Release|x64.Build.0 = Release|x64
 		{56D4CDCC-6DA3-49BA-BACB-D040A6FE2769}.Release|x86.ActiveCfg = Release|Win32
 		{56D4CDCC-6DA3-49BA-BACB-D040A6FE2769}.Release|x86.Build.0 = Release|Win32
+		{61422479-D02E-47E6-A77A-53ED760DBAA0}.Debug|x64.ActiveCfg = Debug|x64
+		{61422479-D02E-47E6-A77A-53ED760DBAA0}.Debug|x64.Build.0 = Debug|x64
+		{61422479-D02E-47E6-A77A-53ED760DBAA0}.Debug|x86.ActiveCfg = Debug|Win32
+		{61422479-D02E-47E6-A77A-53ED760DBAA0}.Debug|x86.Build.0 = Debug|Win32
+		{61422479-D02E-47E6-A77A-53ED760DBAA0}.Release|x64.ActiveCfg = Release|x64
+		{61422479-D02E-47E6-A77A-53ED760DBAA0}.Release|x64.Build.0 = Release|x64
+		{61422479-D02E-47E6-A77A-53ED760DBAA0}.Release|x86.ActiveCfg = Release|Win32
+		{61422479-D02E-47E6-A77A-53ED760DBAA0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -608,6 +618,7 @@ Global
 		{D863DC3E-1296-4E60-9C57-8E5655989818} = {322B5FC9-2057-4C62-B55C-14144E95BBFD}
 		{E215ABE5-67A3-4DD0-8CAA-C3DDC51F6608} = {73DF6440-A4B8-4FF9-979D-CF01F4558B87}
 		{56D4CDCC-6DA3-49BA-BACB-D040A6FE2769} = {C5F3A0DD-F759-4CC5-BAD6-5B3C712BFAF6}
+		{61422479-D02E-47E6-A77A-53ED760DBAA0} = {73DF6440-A4B8-4FF9-979D-CF01F4558B87}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
