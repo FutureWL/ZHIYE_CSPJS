@@ -198,6 +198,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "作业_01_简单算数表�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "作业_02_短信计费", "00_C++语言\06_函数\01_函数\作业_02_短信计费\作业_02_短信计费.vcxproj", "{F78F432E-E832-47A2-9B7F-1D9B2F63F6B1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "作业_03_甲流病人初筛", "00_C++语言\06_函数\01_函数\作业_03_甲流病人初筛\作业_03_甲流病人初筛.vcxproj", "{4A4BC2F0-9777-4687-B7C4-9469CE9FA780}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -534,6 +536,14 @@ Global
 		{F78F432E-E832-47A2-9B7F-1D9B2F63F6B1}.Release|x64.Build.0 = Release|x64
 		{F78F432E-E832-47A2-9B7F-1D9B2F63F6B1}.Release|x86.ActiveCfg = Release|Win32
 		{F78F432E-E832-47A2-9B7F-1D9B2F63F6B1}.Release|x86.Build.0 = Release|Win32
+		{4A4BC2F0-9777-4687-B7C4-9469CE9FA780}.Debug|x64.ActiveCfg = Debug|x64
+		{4A4BC2F0-9777-4687-B7C4-9469CE9FA780}.Debug|x64.Build.0 = Debug|x64
+		{4A4BC2F0-9777-4687-B7C4-9469CE9FA780}.Debug|x86.ActiveCfg = Debug|Win32
+		{4A4BC2F0-9777-4687-B7C4-9469CE9FA780}.Debug|x86.Build.0 = Debug|Win32
+		{4A4BC2F0-9777-4687-B7C4-9469CE9FA780}.Release|x64.ActiveCfg = Release|x64
+		{4A4BC2F0-9777-4687-B7C4-9469CE9FA780}.Release|x64.Build.0 = Release|x64
+		{4A4BC2F0-9777-4687-B7C4-9469CE9FA780}.Release|x86.ActiveCfg = Release|Win32
+		{4A4BC2F0-9777-4687-B7C4-9469CE9FA780}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -630,6 +640,7 @@ Global
 		{56D4CDCC-6DA3-49BA-BACB-D040A6FE2769} = {C5F3A0DD-F759-4CC5-BAD6-5B3C712BFAF6}
 		{61422479-D02E-47E6-A77A-53ED760DBAA0} = {73DF6440-A4B8-4FF9-979D-CF01F4558B87}
 		{F78F432E-E832-47A2-9B7F-1D9B2F63F6B1} = {73DF6440-A4B8-4FF9-979D-CF01F4558B87}
+		{4A4BC2F0-9777-4687-B7C4-9469CE9FA780} = {73DF6440-A4B8-4FF9-979D-CF01F4558B87}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
