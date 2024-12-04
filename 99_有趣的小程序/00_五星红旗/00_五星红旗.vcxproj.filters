@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="D:\Downloads\五星红旗-C语言\EasyX_20240601.exe">
-      <Filter>资源文件</Filter>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="D:\Downloads\五星红旗-C语言\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="EasyX_20240601.exe">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
