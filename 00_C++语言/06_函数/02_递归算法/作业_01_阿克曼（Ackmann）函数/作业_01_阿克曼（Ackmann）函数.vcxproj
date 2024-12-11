@@ -22,8 +22,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e215abe5-67a3-4dd0-8caa-c3ddc51f6608}</ProjectGuid>
-    <RootNamespace>My01求正整数2和100之间的完全数</RootNamespace>
+    <ProjectGuid>{0cb9a9f8-cb18-454a-aadc-54a556c8f1a3}</ProjectGuid>
+    <RootNamespace>作业01阿克曼Ackmann函数</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
