@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00_C++语言", "00_C++语言", "{13BD65D7-AFCB-4380-B4BB-E903513B53AF}"
+	ProjectSection(SolutionItems) = preProject
+		00_C++语言\README.md = 00_C++语言\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_数据结构", "02_数据结构", "{D6A27695-699A-4568-B0AF-FD518720EC04}"
 EndProject
@@ -73,12 +76,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05_搜索与回溯算法", 
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_贪心算法", "06_贪心算法", "{32CB0267-5328-4307-8C1D-39D782F78A9C}"
+	ProjectSection(SolutionItems) = preProject
+		01_算法\06_贪心算法\README.md = 01_算法\06_贪心算法\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_分治算法", "07_分治算法", "{409106D7-5184-48B3-AEDE-82972335AEBF}"
+	ProjectSection(SolutionItems) = preProject
+		01_算法\07_分治算法\README.md = 01_算法\07_分治算法\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08_广度优先搜索算法", "08_广度优先搜索算法", "{010F3D0D-F258-484D-A5A9-20CE2522BD86}"
+	ProjectSection(SolutionItems) = preProject
+		01_算法\08_广度优先搜索算法\README.md = 01_算法\08_广度优先搜索算法\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09_动态规划", "09_动态规划", "{FB636B1E-F79B-4A07-9107-BA46FD2264A4}"
+	ProjectSection(SolutionItems) = preProject
+		01_算法\09_动态规划\README.md = 01_算法\09_动态规划\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_动态规划的基本模型", "01_动态规划的基本模型", "{6CC410EC-A1DC-4512-9C7E-0813F7FE6C47}"
 EndProject
@@ -244,6 +259,48 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_百钱买百鸡问题", "01_算法\10_穷举算法\02_百钱买百鸡问题\02_百钱买百鸡问题.vcxproj", "{B1AC3471-A660-48AC-8EE5-1925FF8392AF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_密码破解（简单示例，假设密码是 4 位数字）", "01_算法\10_穷举算法\03_密码破解（简单示例，假设密码是 4 位数字）\03_密码破解（简单示例，假设密码是 4 位数字）.vcxproj", "{012E1B51-F2E5-4302-BDC4-E21F88E001D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_数学问题", "03_数学问题", "{9BA6D690-E96A-4E5F-87A0-AEBC3D3B4EDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_简单数论", "01_简单数论", "{A6481E5C-D529-482B-8707-3EA036E6AE58}"
+	ProjectSection(SolutionItems) = preProject
+		03_数学问题\01_简单数论\README.md = 03_数学问题\01_简单数论\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_排列组合", "02_排列组合", "{6E11B034-C986-42E8-988A-F94A4874AB86}"
+	ProjectSection(SolutionItems) = preProject
+		03_数学问题\02_排列组合\README.md = 03_数学问题\02_排列组合\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_特殊数列", "03_特殊数列", "{33BD6AF8-BB13-43DD-A909-7FE422A96683}"
+	ProjectSection(SolutionItems) = preProject
+		03_数学问题\03_特殊数列\README.md = 03_数学问题\03_特殊数列\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_容斥原理", "04_容斥原理", "{D8A6C728-CED3-4F5B-877B-517F78B29AAE}"
+	ProjectSection(SolutionItems) = preProject
+		03_数学问题\04_容斥原理\README.md = 03_数学问题\04_容斥原理\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05_抽屉原理", "05_抽屉原理", "{A2C5CA30-26E0-4D39-829E-0E07DF2D4307}"
+	ProjectSection(SolutionItems) = preProject
+		03_数学问题\05_抽屉原理\README.md = 03_数学问题\05_抽屉原理\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_概率与期望", "06_概率与期望", "{AF9E9234-8A2F-4489-A003-34D27D86C180}"
+	ProjectSection(SolutionItems) = preProject
+		03_数学问题\06_概率与期望\README.md = 03_数学问题\06_概率与期望\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_离散数学", "07_离散数学", "{55EC5F86-1F13-4FBE-B430-ADE7876D3589}"
+	ProjectSection(SolutionItems) = preProject
+		03_数学问题\07_离散数学\README.md = 03_数学问题\07_离散数学\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08_博弈论入门", "08_博弈论入门", "{6B461EEF-DA01-4D64-A0B7-E2E78B5853A4}"
+	ProjectSection(SolutionItems) = preProject
+		03_数学问题\08_博弈论入门\README.md = 03_数学问题\08_博弈论入门\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -813,6 +870,14 @@ Global
 		{C1B7212D-8894-4FAD-B6A0-F09891E0F776} = {37F3DC32-F7F2-4255-B3A8-73714F3BDC66}
 		{B1AC3471-A660-48AC-8EE5-1925FF8392AF} = {37F3DC32-F7F2-4255-B3A8-73714F3BDC66}
 		{012E1B51-F2E5-4302-BDC4-E21F88E001D9} = {37F3DC32-F7F2-4255-B3A8-73714F3BDC66}
+		{A6481E5C-D529-482B-8707-3EA036E6AE58} = {9BA6D690-E96A-4E5F-87A0-AEBC3D3B4EDE}
+		{6E11B034-C986-42E8-988A-F94A4874AB86} = {9BA6D690-E96A-4E5F-87A0-AEBC3D3B4EDE}
+		{33BD6AF8-BB13-43DD-A909-7FE422A96683} = {9BA6D690-E96A-4E5F-87A0-AEBC3D3B4EDE}
+		{D8A6C728-CED3-4F5B-877B-517F78B29AAE} = {9BA6D690-E96A-4E5F-87A0-AEBC3D3B4EDE}
+		{A2C5CA30-26E0-4D39-829E-0E07DF2D4307} = {9BA6D690-E96A-4E5F-87A0-AEBC3D3B4EDE}
+		{AF9E9234-8A2F-4489-A003-34D27D86C180} = {9BA6D690-E96A-4E5F-87A0-AEBC3D3B4EDE}
+		{55EC5F86-1F13-4FBE-B430-ADE7876D3589} = {9BA6D690-E96A-4E5F-87A0-AEBC3D3B4EDE}
+		{6B461EEF-DA01-4D64-A0B7-E2E78B5853A4} = {9BA6D690-E96A-4E5F-87A0-AEBC3D3B4EDE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
