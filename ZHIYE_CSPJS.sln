@@ -8,6 +8,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_数据结构", "02_数据结构", "{D6A27695-699A-4568-B0AF-FD518720EC04}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_算法", "01_算法", "{ED3FA100-5317-4B4F-9DAA-CAB51298C74F}"
+	ProjectSection(SolutionItems) = preProject
+		01_算法\README.md = 01_算法\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{22857732-7164-4DFC-8289-64E613E63837}"
 	ProjectSection(SolutionItems) = preProject
@@ -55,10 +58,19 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_堆及其应用", "02_堆及其应用", "{3A2D2266-D283-455E-B9B0-092400464B3C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_递推算法", "03_递推算法", "{3962B6BC-3320-4AAF-A55D-B292488E94DC}"
+	ProjectSection(SolutionItems) = preProject
+		01_算法\03_递推算法\README.md = 01_算法\03_递推算法\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_递归算法", "04_递归算法", "{65CC981F-68B5-4E09-817D-4FB553D2DE5A}"
+	ProjectSection(SolutionItems) = preProject
+		01_算法\04_递归算法\README.md = 01_算法\04_递归算法\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05_搜索与回溯算法", "05_搜索与回溯算法", "{25AF5ED1-0926-464B-9105-9664C287C069}"
+	ProjectSection(SolutionItems) = preProject
+		01_算法\05_搜索与回溯算法\README.md = 01_算法\05_搜索与回溯算法\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_贪心算法", "06_贪心算法", "{32CB0267-5328-4307-8C1D-39D782F78A9C}"
 EndProject
@@ -219,8 +231,19 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_快速排序", "01_算法\02_数据排序\08_快速排序\08_快速排序.vcxproj", "{A6526F23-FF2D-433B-9E6B-0DE8203A5375}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10_穷举算法", "10_穷举算法", "{37F3DC32-F7F2-4255-B3A8-73714F3BDC66}"
+	ProjectSection(SolutionItems) = preProject
+		01_算法\10_穷举算法\README.md = 01_算法\10_穷举算法\README.md
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_国王的米粒", "01_算法\01_高精度计算\04_国王的米粒\04_国王的米粒.vcxproj", "{90E6527C-2C7A-4FC8-B33F-6C6FEAD10666}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_汉诺塔的步数", "01_算法\01_高精度计算\05_汉诺塔的步数\05_汉诺塔的步数.vcxproj", "{6CAC0823-9DC4-4825-80CA-E74989C492C4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_找出1到100之间的所有质数（素数）", "01_算法\10_穷举算法\01_找出1到100之间的所有质数（素数）\01_找出1到100之间的所有质数（素数）.vcxproj", "{C1B7212D-8894-4FAD-B6A0-F09891E0F776}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_百钱买百鸡问题", "01_算法\10_穷举算法\02_百钱买百鸡问题\02_百钱买百鸡问题.vcxproj", "{B1AC3471-A660-48AC-8EE5-1925FF8392AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_密码破解（简单示例，假设密码是 4 位数字）", "01_算法\10_穷举算法\03_密码破解（简单示例，假设密码是 4 位数字）\03_密码破解（简单示例，假设密码是 4 位数字）.vcxproj", "{012E1B51-F2E5-4302-BDC4-E21F88E001D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -646,6 +669,38 @@ Global
 		{90E6527C-2C7A-4FC8-B33F-6C6FEAD10666}.Release|x64.Build.0 = Release|x64
 		{90E6527C-2C7A-4FC8-B33F-6C6FEAD10666}.Release|x86.ActiveCfg = Release|Win32
 		{90E6527C-2C7A-4FC8-B33F-6C6FEAD10666}.Release|x86.Build.0 = Release|Win32
+		{6CAC0823-9DC4-4825-80CA-E74989C492C4}.Debug|x64.ActiveCfg = Debug|x64
+		{6CAC0823-9DC4-4825-80CA-E74989C492C4}.Debug|x64.Build.0 = Debug|x64
+		{6CAC0823-9DC4-4825-80CA-E74989C492C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{6CAC0823-9DC4-4825-80CA-E74989C492C4}.Debug|x86.Build.0 = Debug|Win32
+		{6CAC0823-9DC4-4825-80CA-E74989C492C4}.Release|x64.ActiveCfg = Release|x64
+		{6CAC0823-9DC4-4825-80CA-E74989C492C4}.Release|x64.Build.0 = Release|x64
+		{6CAC0823-9DC4-4825-80CA-E74989C492C4}.Release|x86.ActiveCfg = Release|Win32
+		{6CAC0823-9DC4-4825-80CA-E74989C492C4}.Release|x86.Build.0 = Release|Win32
+		{C1B7212D-8894-4FAD-B6A0-F09891E0F776}.Debug|x64.ActiveCfg = Debug|x64
+		{C1B7212D-8894-4FAD-B6A0-F09891E0F776}.Debug|x64.Build.0 = Debug|x64
+		{C1B7212D-8894-4FAD-B6A0-F09891E0F776}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1B7212D-8894-4FAD-B6A0-F09891E0F776}.Debug|x86.Build.0 = Debug|Win32
+		{C1B7212D-8894-4FAD-B6A0-F09891E0F776}.Release|x64.ActiveCfg = Release|x64
+		{C1B7212D-8894-4FAD-B6A0-F09891E0F776}.Release|x64.Build.0 = Release|x64
+		{C1B7212D-8894-4FAD-B6A0-F09891E0F776}.Release|x86.ActiveCfg = Release|Win32
+		{C1B7212D-8894-4FAD-B6A0-F09891E0F776}.Release|x86.Build.0 = Release|Win32
+		{B1AC3471-A660-48AC-8EE5-1925FF8392AF}.Debug|x64.ActiveCfg = Debug|x64
+		{B1AC3471-A660-48AC-8EE5-1925FF8392AF}.Debug|x64.Build.0 = Debug|x64
+		{B1AC3471-A660-48AC-8EE5-1925FF8392AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{B1AC3471-A660-48AC-8EE5-1925FF8392AF}.Debug|x86.Build.0 = Debug|Win32
+		{B1AC3471-A660-48AC-8EE5-1925FF8392AF}.Release|x64.ActiveCfg = Release|x64
+		{B1AC3471-A660-48AC-8EE5-1925FF8392AF}.Release|x64.Build.0 = Release|x64
+		{B1AC3471-A660-48AC-8EE5-1925FF8392AF}.Release|x86.ActiveCfg = Release|Win32
+		{B1AC3471-A660-48AC-8EE5-1925FF8392AF}.Release|x86.Build.0 = Release|Win32
+		{012E1B51-F2E5-4302-BDC4-E21F88E001D9}.Debug|x64.ActiveCfg = Debug|x64
+		{012E1B51-F2E5-4302-BDC4-E21F88E001D9}.Debug|x64.Build.0 = Debug|x64
+		{012E1B51-F2E5-4302-BDC4-E21F88E001D9}.Debug|x86.ActiveCfg = Debug|Win32
+		{012E1B51-F2E5-4302-BDC4-E21F88E001D9}.Debug|x86.Build.0 = Debug|Win32
+		{012E1B51-F2E5-4302-BDC4-E21F88E001D9}.Release|x64.ActiveCfg = Release|x64
+		{012E1B51-F2E5-4302-BDC4-E21F88E001D9}.Release|x64.Build.0 = Release|x64
+		{012E1B51-F2E5-4302-BDC4-E21F88E001D9}.Release|x86.ActiveCfg = Release|Win32
+		{012E1B51-F2E5-4302-BDC4-E21F88E001D9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -754,6 +809,10 @@ Global
 		{A6526F23-FF2D-433B-9E6B-0DE8203A5375} = {F31F4F41-2A17-4CF5-9D18-81C625FC949A}
 		{37F3DC32-F7F2-4255-B3A8-73714F3BDC66} = {ED3FA100-5317-4B4F-9DAA-CAB51298C74F}
 		{90E6527C-2C7A-4FC8-B33F-6C6FEAD10666} = {608516BD-DB22-41CB-86C2-CF13CE036CB2}
+		{6CAC0823-9DC4-4825-80CA-E74989C492C4} = {608516BD-DB22-41CB-86C2-CF13CE036CB2}
+		{C1B7212D-8894-4FAD-B6A0-F09891E0F776} = {37F3DC32-F7F2-4255-B3A8-73714F3BDC66}
+		{B1AC3471-A660-48AC-8EE5-1925FF8392AF} = {37F3DC32-F7F2-4255-B3A8-73714F3BDC66}
+		{012E1B51-F2E5-4302-BDC4-E21F88E001D9} = {37F3DC32-F7F2-4255-B3A8-73714F3BDC66}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
