@@ -4,6 +4,9 @@
     <Filter Include="源程序">
       <UniqueIdentifier>{66468017-e7e0-4a26-869e-be82d20497e2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{502958bf-8da8-4c47-a3f2-7001ae705956}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">

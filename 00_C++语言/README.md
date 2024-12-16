@@ -1,3 +1,13 @@
+特别提示：
+
+如果系统中缺少 <bits/stdc++.h> 文件
+
+请打开 00_lib 目录，拷贝 bits 文件夹到 
+
+目录 D:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include
+
+不同电脑，路径略有不同
+
 # C++语言
 
 ## 第一章 C++ 语言入门
