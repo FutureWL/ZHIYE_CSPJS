@@ -235,7 +235,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_选择排序", "01_算�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_冒泡排序", "01_算法\02_数据排序\03_冒泡排序\03_冒泡排序.vcxproj", "{50B0A92B-78FC-4C53-831B-1E3D4893EB42}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_选择排序", "01_算法\02_数据排序\04_选择排序\04_选择排序.vcxproj", "{E6AC9B24-538C-407A-B821-DB148D85B932}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_插入排序", "01_算法\02_数据排序\04_选择排序\04_选择排序.vcxproj", "{E6AC9B24-538C-407A-B821-DB148D85B932}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_桶排序", "01_算法\02_数据排序\05_桶排序\05_桶排序.vcxproj", "{21703ACB-98CB-4A26-9A6D-C37A33E3CF78}"
 EndProject
@@ -301,6 +301,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08_博弈论入门", "08_�
 	ProjectSection(SolutionItems) = preProject
 		03_数学问题\08_博弈论入门\README.md = 03_数学问题\08_博弈论入门\README.md
 	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_阶乘计算", "01_算法\03_递推算法\02_阶乘计算\02_阶乘计算.vcxproj", "{C28D1032-A6ED-41C7-9240-B2E4A8FC585B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_杨辉三角", "01_算法\03_递推算法\03_杨辉三角\03_杨辉三角.vcxproj", "{975BA3A4-0EE1-41BA-B9DD-B011862411A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -758,6 +762,22 @@ Global
 		{012E1B51-F2E5-4302-BDC4-E21F88E001D9}.Release|x64.Build.0 = Release|x64
 		{012E1B51-F2E5-4302-BDC4-E21F88E001D9}.Release|x86.ActiveCfg = Release|Win32
 		{012E1B51-F2E5-4302-BDC4-E21F88E001D9}.Release|x86.Build.0 = Release|Win32
+		{C28D1032-A6ED-41C7-9240-B2E4A8FC585B}.Debug|x64.ActiveCfg = Debug|x64
+		{C28D1032-A6ED-41C7-9240-B2E4A8FC585B}.Debug|x64.Build.0 = Debug|x64
+		{C28D1032-A6ED-41C7-9240-B2E4A8FC585B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C28D1032-A6ED-41C7-9240-B2E4A8FC585B}.Debug|x86.Build.0 = Debug|Win32
+		{C28D1032-A6ED-41C7-9240-B2E4A8FC585B}.Release|x64.ActiveCfg = Release|x64
+		{C28D1032-A6ED-41C7-9240-B2E4A8FC585B}.Release|x64.Build.0 = Release|x64
+		{C28D1032-A6ED-41C7-9240-B2E4A8FC585B}.Release|x86.ActiveCfg = Release|Win32
+		{C28D1032-A6ED-41C7-9240-B2E4A8FC585B}.Release|x86.Build.0 = Release|Win32
+		{975BA3A4-0EE1-41BA-B9DD-B011862411A8}.Debug|x64.ActiveCfg = Debug|x64
+		{975BA3A4-0EE1-41BA-B9DD-B011862411A8}.Debug|x64.Build.0 = Debug|x64
+		{975BA3A4-0EE1-41BA-B9DD-B011862411A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{975BA3A4-0EE1-41BA-B9DD-B011862411A8}.Debug|x86.Build.0 = Debug|Win32
+		{975BA3A4-0EE1-41BA-B9DD-B011862411A8}.Release|x64.ActiveCfg = Release|x64
+		{975BA3A4-0EE1-41BA-B9DD-B011862411A8}.Release|x64.Build.0 = Release|x64
+		{975BA3A4-0EE1-41BA-B9DD-B011862411A8}.Release|x86.ActiveCfg = Release|Win32
+		{975BA3A4-0EE1-41BA-B9DD-B011862411A8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -878,6 +898,8 @@ Global
 		{AF9E9234-8A2F-4489-A003-34D27D86C180} = {9BA6D690-E96A-4E5F-87A0-AEBC3D3B4EDE}
 		{55EC5F86-1F13-4FBE-B430-ADE7876D3589} = {9BA6D690-E96A-4E5F-87A0-AEBC3D3B4EDE}
 		{6B461EEF-DA01-4D64-A0B7-E2E78B5853A4} = {9BA6D690-E96A-4E5F-87A0-AEBC3D3B4EDE}
+		{C28D1032-A6ED-41C7-9240-B2E4A8FC585B} = {3962B6BC-3320-4AAF-A55D-B292488E94DC}
+		{975BA3A4-0EE1-41BA-B9DD-B011862411A8} = {3962B6BC-3320-4AAF-A55D-B292488E94DC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
