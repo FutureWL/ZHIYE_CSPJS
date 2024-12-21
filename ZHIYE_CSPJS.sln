@@ -308,6 +308,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_插入排序", "01_算�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_计算阶乘", "01_算法\04_递归算法\01_计算阶乘\01_计算阶乘.vcxproj", "{84F04F2E-AA18-4EAB-BD81-BBB6F2E2394A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_斐波那契数列", "01_算法\04_递归算法\02_斐波那契数列\02_斐波那契数列.vcxproj", "{8AD07876-6E0A-4216-BCD0-E5A8427622AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -788,6 +790,14 @@ Global
 		{84F04F2E-AA18-4EAB-BD81-BBB6F2E2394A}.Release|x64.Build.0 = Release|x64
 		{84F04F2E-AA18-4EAB-BD81-BBB6F2E2394A}.Release|x86.ActiveCfg = Release|Win32
 		{84F04F2E-AA18-4EAB-BD81-BBB6F2E2394A}.Release|x86.Build.0 = Release|Win32
+		{8AD07876-6E0A-4216-BCD0-E5A8427622AA}.Debug|x64.ActiveCfg = Debug|x64
+		{8AD07876-6E0A-4216-BCD0-E5A8427622AA}.Debug|x64.Build.0 = Debug|x64
+		{8AD07876-6E0A-4216-BCD0-E5A8427622AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{8AD07876-6E0A-4216-BCD0-E5A8427622AA}.Debug|x86.Build.0 = Debug|Win32
+		{8AD07876-6E0A-4216-BCD0-E5A8427622AA}.Release|x64.ActiveCfg = Release|x64
+		{8AD07876-6E0A-4216-BCD0-E5A8427622AA}.Release|x64.Build.0 = Release|x64
+		{8AD07876-6E0A-4216-BCD0-E5A8427622AA}.Release|x86.ActiveCfg = Release|Win32
+		{8AD07876-6E0A-4216-BCD0-E5A8427622AA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -911,6 +921,7 @@ Global
 		{975BA3A4-0EE1-41BA-B9DD-B011862411A8} = {3962B6BC-3320-4AAF-A55D-B292488E94DC}
 		{E6AC9B24-538C-407A-B821-DB148D85B932} = {F31F4F41-2A17-4CF5-9D18-81C625FC949A}
 		{84F04F2E-AA18-4EAB-BD81-BBB6F2E2394A} = {65CC981F-68B5-4E09-817D-4FB553D2DE5A}
+		{8AD07876-6E0A-4216-BCD0-E5A8427622AA} = {65CC981F-68B5-4E09-817D-4FB553D2DE5A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
