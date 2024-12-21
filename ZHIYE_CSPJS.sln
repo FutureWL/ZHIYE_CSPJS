@@ -382,6 +382,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_图的广度优先搜索
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_树的广度优先搜索（使用二叉树节点结构体表示树）", "01_算法\08_广度优先搜索算法\03_树的广度优先搜索（使用二叉树节点结构体表示树）\03_树的广度优先搜索（使用二叉树节点结构体表示树）.vcxproj", "{56B2DFEC-F6FA-48AE-80D5-E0F8EA9D2CE0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_斐波那契数列（简单的动态规划入门示例）", "01_算法\09_动态规划\01_斐波那契数列（简单的动态规划入门示例）\01_斐波那契数列（简单的动态规划入门示例）.vcxproj", "{874C40DB-52AD-4629-9CAC-66C5A91448D2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_最长递增子序列（Longest Increasing Subsequence，LIS）", "01_算法\09_动态规划\02_最长递增子序列（Longest Increasing Subsequence，LIS）\02_最长递增子序列（Longest Increasing Subsequence，LIS）.vcxproj", "{26F9AAF4-3692-4175-A020-EC924F4A90D6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_背包问题（0-1背包问题，经典动态规划示例）", "01_算法\09_动态规划\03_背包问题（0-1背包问题，经典动态规划示例）\03_背包问题（0-1背包问题，经典动态规划示例）.vcxproj", "{B806CEB8-A029-4C94-8ABF-EBE591154F87}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_最长公共子序列（Longest Common Subsequence，LCS）", "01_算法\09_动态规划\04_最长公共子序列（Longest Common Subsequence，LCS）\04_最长公共子序列（Longest Common Subsequence，LCS）.vcxproj", "{B5FE0764-48F1-4A7B-AB57-5C774762D23D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1158,6 +1166,38 @@ Global
 		{56B2DFEC-F6FA-48AE-80D5-E0F8EA9D2CE0}.Release|x64.Build.0 = Release|x64
 		{56B2DFEC-F6FA-48AE-80D5-E0F8EA9D2CE0}.Release|x86.ActiveCfg = Release|Win32
 		{56B2DFEC-F6FA-48AE-80D5-E0F8EA9D2CE0}.Release|x86.Build.0 = Release|Win32
+		{874C40DB-52AD-4629-9CAC-66C5A91448D2}.Debug|x64.ActiveCfg = Debug|x64
+		{874C40DB-52AD-4629-9CAC-66C5A91448D2}.Debug|x64.Build.0 = Debug|x64
+		{874C40DB-52AD-4629-9CAC-66C5A91448D2}.Debug|x86.ActiveCfg = Debug|Win32
+		{874C40DB-52AD-4629-9CAC-66C5A91448D2}.Debug|x86.Build.0 = Debug|Win32
+		{874C40DB-52AD-4629-9CAC-66C5A91448D2}.Release|x64.ActiveCfg = Release|x64
+		{874C40DB-52AD-4629-9CAC-66C5A91448D2}.Release|x64.Build.0 = Release|x64
+		{874C40DB-52AD-4629-9CAC-66C5A91448D2}.Release|x86.ActiveCfg = Release|Win32
+		{874C40DB-52AD-4629-9CAC-66C5A91448D2}.Release|x86.Build.0 = Release|Win32
+		{26F9AAF4-3692-4175-A020-EC924F4A90D6}.Debug|x64.ActiveCfg = Debug|x64
+		{26F9AAF4-3692-4175-A020-EC924F4A90D6}.Debug|x64.Build.0 = Debug|x64
+		{26F9AAF4-3692-4175-A020-EC924F4A90D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{26F9AAF4-3692-4175-A020-EC924F4A90D6}.Debug|x86.Build.0 = Debug|Win32
+		{26F9AAF4-3692-4175-A020-EC924F4A90D6}.Release|x64.ActiveCfg = Release|x64
+		{26F9AAF4-3692-4175-A020-EC924F4A90D6}.Release|x64.Build.0 = Release|x64
+		{26F9AAF4-3692-4175-A020-EC924F4A90D6}.Release|x86.ActiveCfg = Release|Win32
+		{26F9AAF4-3692-4175-A020-EC924F4A90D6}.Release|x86.Build.0 = Release|Win32
+		{B806CEB8-A029-4C94-8ABF-EBE591154F87}.Debug|x64.ActiveCfg = Debug|x64
+		{B806CEB8-A029-4C94-8ABF-EBE591154F87}.Debug|x64.Build.0 = Debug|x64
+		{B806CEB8-A029-4C94-8ABF-EBE591154F87}.Debug|x86.ActiveCfg = Debug|Win32
+		{B806CEB8-A029-4C94-8ABF-EBE591154F87}.Debug|x86.Build.0 = Debug|Win32
+		{B806CEB8-A029-4C94-8ABF-EBE591154F87}.Release|x64.ActiveCfg = Release|x64
+		{B806CEB8-A029-4C94-8ABF-EBE591154F87}.Release|x64.Build.0 = Release|x64
+		{B806CEB8-A029-4C94-8ABF-EBE591154F87}.Release|x86.ActiveCfg = Release|Win32
+		{B806CEB8-A029-4C94-8ABF-EBE591154F87}.Release|x86.Build.0 = Release|Win32
+		{B5FE0764-48F1-4A7B-AB57-5C774762D23D}.Debug|x64.ActiveCfg = Debug|x64
+		{B5FE0764-48F1-4A7B-AB57-5C774762D23D}.Debug|x64.Build.0 = Debug|x64
+		{B5FE0764-48F1-4A7B-AB57-5C774762D23D}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5FE0764-48F1-4A7B-AB57-5C774762D23D}.Debug|x86.Build.0 = Debug|Win32
+		{B5FE0764-48F1-4A7B-AB57-5C774762D23D}.Release|x64.ActiveCfg = Release|x64
+		{B5FE0764-48F1-4A7B-AB57-5C774762D23D}.Release|x64.Build.0 = Release|x64
+		{B5FE0764-48F1-4A7B-AB57-5C774762D23D}.Release|x86.ActiveCfg = Release|Win32
+		{B5FE0764-48F1-4A7B-AB57-5C774762D23D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1318,6 +1358,10 @@ Global
 		{AB050EC0-C0DF-452B-8500-1E616172593F} = {409106D7-5184-48B3-AEDE-82972335AEBF}
 		{A9C439CC-EDFA-49C1-A7EC-AF2BBF6E9A27} = {010F3D0D-F258-484D-A5A9-20CE2522BD86}
 		{56B2DFEC-F6FA-48AE-80D5-E0F8EA9D2CE0} = {010F3D0D-F258-484D-A5A9-20CE2522BD86}
+		{874C40DB-52AD-4629-9CAC-66C5A91448D2} = {FB636B1E-F79B-4A07-9107-BA46FD2264A4}
+		{26F9AAF4-3692-4175-A020-EC924F4A90D6} = {FB636B1E-F79B-4A07-9107-BA46FD2264A4}
+		{B806CEB8-A029-4C94-8ABF-EBE591154F87} = {FB636B1E-F79B-4A07-9107-BA46FD2264A4}
+		{B5FE0764-48F1-4A7B-AB57-5C774762D23D} = {FB636B1E-F79B-4A07-9107-BA46FD2264A4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
