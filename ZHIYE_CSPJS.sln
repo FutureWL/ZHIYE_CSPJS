@@ -388,8 +388,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_快速排序", "01_算�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_二分查找", "01_算法\07_分治算法\04_二分查找\04_二分查找.vcxproj", "{EF706FF9-3D83-47D1-ABB5-F9EB3A7F38A1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_大整数乘法", "05_大整数乘法\05_大整数乘法.vcxproj", "{AB050EC0-C0DF-452B-8500-1E616172593F}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_图的广度优先搜索（使用邻接表表示图）", "01_算法\08_广度优先搜索算法\02_图的广度优先搜索（使用邻接表表示图）\02_图的广度优先搜索（使用邻接表表示图）.vcxproj", "{A9C439CC-EDFA-49C1-A7EC-AF2BBF6E9A27}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_树的广度优先搜索（使用二叉树节点结构体表示树）", "01_算法\08_广度优先搜索算法\03_树的广度优先搜索（使用二叉树节点结构体表示树）\03_树的广度优先搜索（使用二叉树节点结构体表示树）.vcxproj", "{56B2DFEC-F6FA-48AE-80D5-E0F8EA9D2CE0}"
@@ -401,6 +399,178 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_背包问题（0-1背包问题，经典动态规划示例）", "01_算法\09_动态规划\03_背包问题（0-1背包问题，经典动态规划示例）\03_背包问题（0-1背包问题，经典动态规划示例）.vcxproj", "{B806CEB8-A029-4C94-8ABF-EBE591154F87}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_最长公共子序列（Longest Common Subsequence，LCS）", "01_算法\09_动态规划\04_最长公共子序列（Longest Common Subsequence，LCS）\04_最长公共子序列（Longest Common Subsequence，LCS）.vcxproj", "{B5FE0764-48F1-4A7B-AB57-5C774762D23D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_大整数乘法", "01_算法\07_分治算法\05_大整数乘法\05_大整数乘法.vcxproj", "{AB050EC0-C0DF-452B-8500-1E616172593F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_阅读程序", "04_阅读程序", "{8E15421B-A3FA-4259-A5B0-52953750D944}"
+	ProjectSection(SolutionItems) = preProject
+		04_阅读程序\README.md = 04_阅读程序\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_策略模拟", "01_策略模拟", "{D49E2EA2-1C36-480B-8597-19BF3F7B32E1}"
+	ProjectSection(SolutionItems) = preProject
+		04_阅读程序\01_策略模拟\README.md = 04_阅读程序\01_策略模拟\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_字符处理", "02_字符处理", "{9F2A0473-3D57-42DE-A624-730240C27A50}"
+	ProjectSection(SolutionItems) = preProject
+		04_阅读程序\02_字符处理\README.md = 04_阅读程序\02_字符处理\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05_完善程序", "05_完善程序", "{5F382D3D-6825-4C7D-B2C5-3CB6EFB31E7E}"
+	ProjectSection(SolutionItems) = preProject
+		05_完善程序\README.md = 05_完善程序\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_CSP_J_真题", "06_CSP_J_真题", "{A2434E3A-6418-49C6-995E-C241A5BFDCA5}"
+	ProjectSection(SolutionItems) = preProject
+		06_CSP_J_真题\README.md = 06_CSP_J_真题\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_CSP_S_真题", "07_CSP_S_真题", "{195E59BC-31AB-4F48-B2E6-E16F9BDD78BF}"
+	ProjectSection(SolutionItems) = preProject
+		07_CSP_S_真题\README.md = 07_CSP_S_真题\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_枚举算法", "03_枚举算法", "{4E0D5FB1-358E-4922-8453-930722640306}"
+	ProjectSection(SolutionItems) = preProject
+		04_阅读程序\03_枚举算法\README.md = 04_阅读程序\03_枚举算法\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_排序算法", "04_排序算法", "{1D249CB6-1C6A-4369-B703-499AB98981E1}"
+	ProjectSection(SolutionItems) = preProject
+		04_阅读程序\04_排序算法\README.md = 04_阅读程序\04_排序算法\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05_递推与递归", "05_递推与递归", "{1820DDD2-32D1-4CFE-99F3-3E9F48475758}"
+	ProjectSection(SolutionItems) = preProject
+		04_阅读程序\05_递推与递归\README.md = 04_阅读程序\05_递推与递归\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_指针和引用", "06_指针和引用", "{879F0B68-3BFD-4F0A-9E84-278F1C49F055}"
+	ProjectSection(SolutionItems) = preProject
+		04_阅读程序\06_指针和引用\README.md = 04_阅读程序\06_指针和引用\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_搜索算法", "07_搜索算法", "{A9EC048C-08F4-4758-A1A1-45233976CA47}"
+	ProjectSection(SolutionItems) = preProject
+		04_阅读程序\07_搜索算法\README.md = 04_阅读程序\07_搜索算法\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08_动态规划", "08_动态规划", "{00D88EFB-08F6-4C2C-AA7E-49A7E00F7D75}"
+	ProjectSection(SolutionItems) = preProject
+		04_阅读程序\08_动态规划\README.md = 04_阅读程序\08_动态规划\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09_树和图", "09_树和图", "{99CCCB9C-0649-477C-9831-235436B107A1}"
+	ProjectSection(SolutionItems) = preProject
+		04_阅读程序\09_树和图\README.md = 04_阅读程序\09_树和图\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10_数论", "10_数论", "{5EF75140-E24D-4C4D-998F-1AC05A66EF58}"
+	ProjectSection(SolutionItems) = preProject
+		04_阅读程序\10_数论\README.md = 04_阅读程序\10_数论\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_数组", "01_数组", "{ACA9A6D7-3ED2-4F30-B363-5D864B77E566}"
+	ProjectSection(SolutionItems) = preProject
+		05_完善程序\01_数组\README.md = 05_完善程序\01_数组\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_字符处理", "02_字符处理", "{836C6B9C-8552-4397-9359-0025DC4A72DC}"
+	ProjectSection(SolutionItems) = preProject
+		05_完善程序\02_字符处理\README.md = 05_完善程序\02_字符处理\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_枚举算法", "03_枚举算法", "{035B4B81-A109-4EE4-A792-5BF98BC2AF31}"
+	ProjectSection(SolutionItems) = preProject
+		05_完善程序\03_枚举算法\README.md = 05_完善程序\03_枚举算法\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_链表", "04_链表", "{78A6ADE3-AE43-4470-92E2-1900BB6D7F24}"
+	ProjectSection(SolutionItems) = preProject
+		05_完善程序\04_链表\README.md = 05_完善程序\04_链表\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05_分治算法", "05_分治算法", "{262FFD83-6BB5-445D-B80E-639A7ABBF312}"
+	ProjectSection(SolutionItems) = preProject
+		05_完善程序\05_分治算法\README.md = 05_完善程序\05_分治算法\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_搜索算法", "06_搜索算法", "{488FF63F-AADB-4438-9576-F041DE5296E1}"
+	ProjectSection(SolutionItems) = preProject
+		05_完善程序\06_搜索算法\README.md = 05_完善程序\06_搜索算法\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_动态规划", "07_动态规划", "{CC831B0D-BA80-47F0-A94A-92A74E5784EA}"
+	ProjectSection(SolutionItems) = preProject
+		05_完善程序\07_动态规划\README.md = 05_完善程序\07_动态规划\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08_栈和队列", "08_栈和队列", "{D80A254C-3672-49EF-8B5B-48FB5CA4370B}"
+	ProjectSection(SolutionItems) = preProject
+		05_完善程序\08_栈和队列\README.md = 05_完善程序\08_栈和队列\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09_树和图", "09_树和图", "{161EE22B-2DB3-4532-B895-BEBD183269BA}"
+	ProjectSection(SolutionItems) = preProject
+		05_完善程序\09_树和图\README.md = 05_完善程序\09_树和图\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10_数论", "10_数论", "{80709C6F-3124-4CE7-8147-0D7230E0B379}"
+	ProjectSection(SolutionItems) = preProject
+		05_完善程序\10_数论\README.md = 05_完善程序\10_数论\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2019", "2019", "{8338188E-996D-467C-9940-22FA58EF0A3C}"
+	ProjectSection(SolutionItems) = preProject
+		06_CSP_J_真题\2019\README.md = 06_CSP_J_真题\2019\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2020", "2020", "{84DE7341-FAF1-45E9-95A1-DB5A2FE1D8D0}"
+	ProjectSection(SolutionItems) = preProject
+		06_CSP_J_真题\2020\README.md = 06_CSP_J_真题\2020\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2021", "2021", "{BB7F6F31-2A23-44A4-AED1-738A3962C7A1}"
+	ProjectSection(SolutionItems) = preProject
+		06_CSP_J_真题\2021\README.md = 06_CSP_J_真题\2021\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2022", "2022", "{F5896540-0F5E-491F-AA4D-C2114FDF5AD1}"
+	ProjectSection(SolutionItems) = preProject
+		06_CSP_J_真题\2022\README.md = 06_CSP_J_真题\2022\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2023", "2023", "{C718E9F9-D0EA-4F83-95CC-B9F7C02F04E8}"
+	ProjectSection(SolutionItems) = preProject
+		06_CSP_J_真题\2023\README.md = 06_CSP_J_真题\2023\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2019", "2019", "{8E0BFB07-8EAA-416B-B425-F0B947E92D8C}"
+	ProjectSection(SolutionItems) = preProject
+		07_CSP_S_真题\2019\README.md = 07_CSP_S_真题\2019\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2020", "2020", "{C45809B9-1937-4EF7-A38C-08C5A53981D2}"
+	ProjectSection(SolutionItems) = preProject
+		07_CSP_S_真题\2020\README.md = 07_CSP_S_真题\2020\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2021", "2021", "{CE992B9A-0DCA-4756-8E58-F881F45F7CB8}"
+	ProjectSection(SolutionItems) = preProject
+		07_CSP_S_真题\2021\README.md = 07_CSP_S_真题\2021\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2022", "2022", "{D77EB867-20AB-4BB1-8206-808F407EEC4B}"
+	ProjectSection(SolutionItems) = preProject
+		07_CSP_S_真题\2022\README.md = 07_CSP_S_真题\2022\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2023", "2023", "{D6FEDE89-604B-4F2C-AD06-00BF1B367DB7}"
+	ProjectSection(SolutionItems) = preProject
+		07_CSP_S_真题\2023\README.md = 07_CSP_S_真题\2023\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1154,14 +1324,6 @@ Global
 		{EF706FF9-3D83-47D1-ABB5-F9EB3A7F38A1}.Release|x64.Build.0 = Release|x64
 		{EF706FF9-3D83-47D1-ABB5-F9EB3A7F38A1}.Release|x86.ActiveCfg = Release|Win32
 		{EF706FF9-3D83-47D1-ABB5-F9EB3A7F38A1}.Release|x86.Build.0 = Release|Win32
-		{AB050EC0-C0DF-452B-8500-1E616172593F}.Debug|x64.ActiveCfg = Debug|x64
-		{AB050EC0-C0DF-452B-8500-1E616172593F}.Debug|x64.Build.0 = Debug|x64
-		{AB050EC0-C0DF-452B-8500-1E616172593F}.Debug|x86.ActiveCfg = Debug|Win32
-		{AB050EC0-C0DF-452B-8500-1E616172593F}.Debug|x86.Build.0 = Debug|Win32
-		{AB050EC0-C0DF-452B-8500-1E616172593F}.Release|x64.ActiveCfg = Release|x64
-		{AB050EC0-C0DF-452B-8500-1E616172593F}.Release|x64.Build.0 = Release|x64
-		{AB050EC0-C0DF-452B-8500-1E616172593F}.Release|x86.ActiveCfg = Release|Win32
-		{AB050EC0-C0DF-452B-8500-1E616172593F}.Release|x86.Build.0 = Release|Win32
 		{A9C439CC-EDFA-49C1-A7EC-AF2BBF6E9A27}.Debug|x64.ActiveCfg = Debug|x64
 		{A9C439CC-EDFA-49C1-A7EC-AF2BBF6E9A27}.Debug|x64.Build.0 = Debug|x64
 		{A9C439CC-EDFA-49C1-A7EC-AF2BBF6E9A27}.Debug|x86.ActiveCfg = Debug|Win32
@@ -1210,6 +1372,14 @@ Global
 		{B5FE0764-48F1-4A7B-AB57-5C774762D23D}.Release|x64.Build.0 = Release|x64
 		{B5FE0764-48F1-4A7B-AB57-5C774762D23D}.Release|x86.ActiveCfg = Release|Win32
 		{B5FE0764-48F1-4A7B-AB57-5C774762D23D}.Release|x86.Build.0 = Release|Win32
+		{AB050EC0-C0DF-452B-8500-1E616172593F}.Debug|x64.ActiveCfg = Debug|x64
+		{AB050EC0-C0DF-452B-8500-1E616172593F}.Debug|x64.Build.0 = Debug|x64
+		{AB050EC0-C0DF-452B-8500-1E616172593F}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB050EC0-C0DF-452B-8500-1E616172593F}.Debug|x86.Build.0 = Debug|Win32
+		{AB050EC0-C0DF-452B-8500-1E616172593F}.Release|x64.ActiveCfg = Release|x64
+		{AB050EC0-C0DF-452B-8500-1E616172593F}.Release|x64.Build.0 = Release|x64
+		{AB050EC0-C0DF-452B-8500-1E616172593F}.Release|x86.ActiveCfg = Release|Win32
+		{AB050EC0-C0DF-452B-8500-1E616172593F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1367,13 +1537,43 @@ Global
 		{02C7B3C4-B78F-4C00-AB47-F262F7A6684F} = {409106D7-5184-48B3-AEDE-82972335AEBF}
 		{4A169BB8-32BC-44E6-946B-6C29BE9D8615} = {409106D7-5184-48B3-AEDE-82972335AEBF}
 		{EF706FF9-3D83-47D1-ABB5-F9EB3A7F38A1} = {409106D7-5184-48B3-AEDE-82972335AEBF}
-		{AB050EC0-C0DF-452B-8500-1E616172593F} = {409106D7-5184-48B3-AEDE-82972335AEBF}
 		{A9C439CC-EDFA-49C1-A7EC-AF2BBF6E9A27} = {010F3D0D-F258-484D-A5A9-20CE2522BD86}
 		{56B2DFEC-F6FA-48AE-80D5-E0F8EA9D2CE0} = {010F3D0D-F258-484D-A5A9-20CE2522BD86}
 		{874C40DB-52AD-4629-9CAC-66C5A91448D2} = {FB636B1E-F79B-4A07-9107-BA46FD2264A4}
 		{26F9AAF4-3692-4175-A020-EC924F4A90D6} = {FB636B1E-F79B-4A07-9107-BA46FD2264A4}
 		{B806CEB8-A029-4C94-8ABF-EBE591154F87} = {FB636B1E-F79B-4A07-9107-BA46FD2264A4}
 		{B5FE0764-48F1-4A7B-AB57-5C774762D23D} = {FB636B1E-F79B-4A07-9107-BA46FD2264A4}
+		{AB050EC0-C0DF-452B-8500-1E616172593F} = {409106D7-5184-48B3-AEDE-82972335AEBF}
+		{D49E2EA2-1C36-480B-8597-19BF3F7B32E1} = {8E15421B-A3FA-4259-A5B0-52953750D944}
+		{9F2A0473-3D57-42DE-A624-730240C27A50} = {8E15421B-A3FA-4259-A5B0-52953750D944}
+		{4E0D5FB1-358E-4922-8453-930722640306} = {8E15421B-A3FA-4259-A5B0-52953750D944}
+		{1D249CB6-1C6A-4369-B703-499AB98981E1} = {8E15421B-A3FA-4259-A5B0-52953750D944}
+		{1820DDD2-32D1-4CFE-99F3-3E9F48475758} = {8E15421B-A3FA-4259-A5B0-52953750D944}
+		{879F0B68-3BFD-4F0A-9E84-278F1C49F055} = {8E15421B-A3FA-4259-A5B0-52953750D944}
+		{A9EC048C-08F4-4758-A1A1-45233976CA47} = {8E15421B-A3FA-4259-A5B0-52953750D944}
+		{00D88EFB-08F6-4C2C-AA7E-49A7E00F7D75} = {8E15421B-A3FA-4259-A5B0-52953750D944}
+		{99CCCB9C-0649-477C-9831-235436B107A1} = {8E15421B-A3FA-4259-A5B0-52953750D944}
+		{5EF75140-E24D-4C4D-998F-1AC05A66EF58} = {8E15421B-A3FA-4259-A5B0-52953750D944}
+		{ACA9A6D7-3ED2-4F30-B363-5D864B77E566} = {5F382D3D-6825-4C7D-B2C5-3CB6EFB31E7E}
+		{836C6B9C-8552-4397-9359-0025DC4A72DC} = {5F382D3D-6825-4C7D-B2C5-3CB6EFB31E7E}
+		{035B4B81-A109-4EE4-A792-5BF98BC2AF31} = {5F382D3D-6825-4C7D-B2C5-3CB6EFB31E7E}
+		{78A6ADE3-AE43-4470-92E2-1900BB6D7F24} = {5F382D3D-6825-4C7D-B2C5-3CB6EFB31E7E}
+		{262FFD83-6BB5-445D-B80E-639A7ABBF312} = {5F382D3D-6825-4C7D-B2C5-3CB6EFB31E7E}
+		{488FF63F-AADB-4438-9576-F041DE5296E1} = {5F382D3D-6825-4C7D-B2C5-3CB6EFB31E7E}
+		{CC831B0D-BA80-47F0-A94A-92A74E5784EA} = {5F382D3D-6825-4C7D-B2C5-3CB6EFB31E7E}
+		{D80A254C-3672-49EF-8B5B-48FB5CA4370B} = {5F382D3D-6825-4C7D-B2C5-3CB6EFB31E7E}
+		{161EE22B-2DB3-4532-B895-BEBD183269BA} = {5F382D3D-6825-4C7D-B2C5-3CB6EFB31E7E}
+		{80709C6F-3124-4CE7-8147-0D7230E0B379} = {5F382D3D-6825-4C7D-B2C5-3CB6EFB31E7E}
+		{8338188E-996D-467C-9940-22FA58EF0A3C} = {A2434E3A-6418-49C6-995E-C241A5BFDCA5}
+		{84DE7341-FAF1-45E9-95A1-DB5A2FE1D8D0} = {A2434E3A-6418-49C6-995E-C241A5BFDCA5}
+		{BB7F6F31-2A23-44A4-AED1-738A3962C7A1} = {A2434E3A-6418-49C6-995E-C241A5BFDCA5}
+		{F5896540-0F5E-491F-AA4D-C2114FDF5AD1} = {A2434E3A-6418-49C6-995E-C241A5BFDCA5}
+		{C718E9F9-D0EA-4F83-95CC-B9F7C02F04E8} = {A2434E3A-6418-49C6-995E-C241A5BFDCA5}
+		{8E0BFB07-8EAA-416B-B425-F0B947E92D8C} = {195E59BC-31AB-4F48-B2E6-E16F9BDD78BF}
+		{C45809B9-1937-4EF7-A38C-08C5A53981D2} = {195E59BC-31AB-4F48-B2E6-E16F9BDD78BF}
+		{CE992B9A-0DCA-4756-8E58-F881F45F7CB8} = {195E59BC-31AB-4F48-B2E6-E16F9BDD78BF}
+		{D77EB867-20AB-4BB1-8206-808F407EEC4B} = {195E59BC-31AB-4F48-B2E6-E16F9BDD78BF}
+		{D6FEDE89-604B-4F2C-AD06-00BF1B367DB7} = {195E59BC-31AB-4F48-B2E6-E16F9BDD78BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
