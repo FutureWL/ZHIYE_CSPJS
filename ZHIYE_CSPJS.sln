@@ -21,12 +21,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决�
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_栈", "01_栈", "{2D0B26D2-8EC8-4C65-9452-8BE8589FCB8C}"
+	ProjectSection(SolutionItems) = preProject
+		02_数据结构\01_栈\README.md = 02_数据结构\01_栈\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_高精度计算", "01_高精度计算", "{608516BD-DB22-41CB-86C2-CF13CE036CB2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_数据排序", "02_数据排序", "{F31F4F41-2A17-4CF5-9D18-81C625FC949A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_队列", "02_队列", "{7B7223B6-47F6-46E4-81D6-8A5B03B679DD}"
+	ProjectSection(SolutionItems) = preProject
+		02_数据结构\02_队列\README.md = 02_数据结构\02_队列\README.md
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_表达式括号匹配", "02_数据结构\01_栈\01_表达式括号匹配\01_表达式括号匹配.vcxproj", "{D08FFE3B-E217-4589-AE7A-68D80EFB40EC}"
 EndProject
@@ -39,10 +45,16 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_面积", "02_数据结构\02_队列\01_面积\01_面积.vcxproj", "{97837CB6-8BE6-4594-8C59-5C3DB5062B10}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_树", "03_树", "{E4C7F4FE-1A94-44F7-82AC-D771DC749506}"
+	ProjectSection(SolutionItems) = preProject
+		02_数据结构\03_树\README.md = 02_数据结构\03_树\README.md
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_小球", "02_数据结构\03_树\01_小球\01_小球.vcxproj", "{267E94CE-0C35-4CD8-BBF0-9E2C35F7114C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_图论算法", "04_图论算法", "{ACED47E8-6842-4AA3-BD9B-022C3DBAE9D6}"
+	ProjectSection(SolutionItems) = preProject
+		02_数据结构\04_图论算法\README.md = 02_数据结构\04_图论算法\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_图的遍历", "01_图的遍历", "{41B72FF1-E026-4C58-BDC8-3C5D6F0FA1B0}"
 EndProject
