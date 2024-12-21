@@ -18,6 +18,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{22857732-7164-4DFC-8289-64E613E63837}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
+		STARTUP.md = STARTUP.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_栈", "01_栈", "{2D0B26D2-8EC8-4C65-9452-8BE8589FCB8C}"
