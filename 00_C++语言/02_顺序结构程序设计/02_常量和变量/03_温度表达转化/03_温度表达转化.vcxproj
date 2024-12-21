@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b20ab46e-3606-47cd-82ff-ea0ead31ca02}</ProjectGuid>
-    <RootNamespace>My05计算分数的浮点数值</RootNamespace>
+    <ProjectGuid>{5129bd27-79a0-46bd-a5ec-22810740752e}</ProjectGuid>
+    <RootNamespace>My03温度表达转化</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
