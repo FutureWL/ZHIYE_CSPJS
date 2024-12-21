@@ -1,4 +1,7 @@
 
+<p align="center">
+	<img alt="logo" src="doc/images/logo-title.png">
+</p>
 <h4 align="center">信息奥林匹克竞赛 C++ 学习项目</h4>
 
 # 信息学奥林匹克竞赛学习分享项目
