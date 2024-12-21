@@ -338,6 +338,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_子集问题", "01_算�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_单词搜索问题", "01_算法\05_搜索与回溯算法\06_单词搜索问题\06_单词搜索问题.vcxproj", "{CD4C4EB7-976E-4538-BF67-EE98EB67371B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_生成括号问题", "01_算法\05_搜索与回溯算法\08_生成括号问题\08_生成括号问题.vcxproj", "{DCE0919C-D5F8-40AF-BDF2-8F45A56E256D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -938,6 +940,14 @@ Global
 		{CD4C4EB7-976E-4538-BF67-EE98EB67371B}.Release|x64.Build.0 = Release|x64
 		{CD4C4EB7-976E-4538-BF67-EE98EB67371B}.Release|x86.ActiveCfg = Release|Win32
 		{CD4C4EB7-976E-4538-BF67-EE98EB67371B}.Release|x86.Build.0 = Release|Win32
+		{DCE0919C-D5F8-40AF-BDF2-8F45A56E256D}.Debug|x64.ActiveCfg = Debug|x64
+		{DCE0919C-D5F8-40AF-BDF2-8F45A56E256D}.Debug|x64.Build.0 = Debug|x64
+		{DCE0919C-D5F8-40AF-BDF2-8F45A56E256D}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCE0919C-D5F8-40AF-BDF2-8F45A56E256D}.Debug|x86.Build.0 = Debug|Win32
+		{DCE0919C-D5F8-40AF-BDF2-8F45A56E256D}.Release|x64.ActiveCfg = Release|x64
+		{DCE0919C-D5F8-40AF-BDF2-8F45A56E256D}.Release|x64.Build.0 = Release|x64
+		{DCE0919C-D5F8-40AF-BDF2-8F45A56E256D}.Release|x86.ActiveCfg = Release|Win32
+		{DCE0919C-D5F8-40AF-BDF2-8F45A56E256D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1076,6 +1086,7 @@ Global
 		{B97925D4-1CD0-49A0-90A3-22937FBF1CDF} = {25AF5ED1-0926-464B-9105-9664C287C069}
 		{B87902B9-59F6-4DB4-9342-74188013BFC5} = {25AF5ED1-0926-464B-9105-9664C287C069}
 		{CD4C4EB7-976E-4538-BF67-EE98EB67371B} = {25AF5ED1-0926-464B-9105-9664C287C069}
+		{DCE0919C-D5F8-40AF-BDF2-8F45A56E256D} = {25AF5ED1-0926-464B-9105-9664C287C069}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
