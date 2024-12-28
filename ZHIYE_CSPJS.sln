@@ -765,6 +765,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_骑车与走路", "00_C+
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_分段函数", "00_C++语言\03_程序的控制结构\02_switch语句\03_分段函数\03_分段函数.vcxproj", "{5EE452C4-63CA-40D5-AEB5-764ECFD91500}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_计算邮资", "00_C++语言\03_程序的控制结构\02_switch语句\04_计算邮资\04_计算邮资.vcxproj", "{C7546885-42FC-4094-9FF3-FE458917290F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1909,6 +1911,14 @@ Global
 		{5EE452C4-63CA-40D5-AEB5-764ECFD91500}.Release|x64.Build.0 = Release|x64
 		{5EE452C4-63CA-40D5-AEB5-764ECFD91500}.Release|x86.ActiveCfg = Release|Win32
 		{5EE452C4-63CA-40D5-AEB5-764ECFD91500}.Release|x86.Build.0 = Release|Win32
+		{C7546885-42FC-4094-9FF3-FE458917290F}.Debug|x64.ActiveCfg = Debug|x64
+		{C7546885-42FC-4094-9FF3-FE458917290F}.Debug|x64.Build.0 = Debug|x64
+		{C7546885-42FC-4094-9FF3-FE458917290F}.Debug|x86.ActiveCfg = Debug|Win32
+		{C7546885-42FC-4094-9FF3-FE458917290F}.Debug|x86.Build.0 = Debug|Win32
+		{C7546885-42FC-4094-9FF3-FE458917290F}.Release|x64.ActiveCfg = Release|x64
+		{C7546885-42FC-4094-9FF3-FE458917290F}.Release|x64.Build.0 = Release|x64
+		{C7546885-42FC-4094-9FF3-FE458917290F}.Release|x86.ActiveCfg = Release|Win32
+		{C7546885-42FC-4094-9FF3-FE458917290F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2185,6 +2195,7 @@ Global
 		{7BCE3469-D0D6-4780-A68C-18CF767E54EA} = {5929C4F2-D994-44CB-87B3-372DA418B382}
 		{C5570444-3A07-4E11-8ACC-07D473092255} = {5929C4F2-D994-44CB-87B3-372DA418B382}
 		{5EE452C4-63CA-40D5-AEB5-764ECFD91500} = {5929C4F2-D994-44CB-87B3-372DA418B382}
+		{C7546885-42FC-4094-9FF3-FE458917290F} = {5929C4F2-D994-44CB-87B3-372DA418B382}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {21880230-8218-4951-B5BB-5B2800136E15}
