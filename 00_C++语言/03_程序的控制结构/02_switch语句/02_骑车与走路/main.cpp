@@ -17,17 +17,32 @@ int main() {
     double walkTime = s / v1;
     double bikeTime = s / v2;
 
+    int comparisonResult;
+    if (walkTime < bikeTime) {
+        comparisonResult = 1;
+    }
+    else if (walkTime > bikeTime) {
+        comparisonResult = 2;
+    }
+    else {
+        comparisonResult = 3;
+    }
+
     std::cout << "走路需要的时间为: " << walkTime << " 秒" << std::endl;
     std::cout << "骑车需要的时间为: " << bikeTime << " 秒" << std::endl;
 
-    if (walkTime < bikeTime) {
+    switch (comparisonResult) {
+    case 1:
         std::cout << "走路用时更短。" << std::endl;
-    }
-    else if (walkTime > bikeTime) {
+        break;
+    case 2:
         std::cout << "骑车用时更短。" << std::endl;
-    }
-    else {
+        break;
+    case 3:
         std::cout << "走路和骑车用时相同。" << std::endl;
+        break;
+    default:
+        break;
     }
 
     return 0;
