@@ -42,6 +42,9 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_括号匹配检验_02", "02_数据结构\01_栈\02_括号匹配检验_02\02_括号匹配检验_02.vcxproj", "{C6D6F4F8-9C18-4A61-84DD-F67F75D55FC5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_C++语言入门", "01_C++语言入门", "{D5421610-C607-439E-A693-10B42D7E82FD}"
+	ProjectSection(SolutionItems) = preProject
+		00_C++语言\01_C++语言入门\README.md = 00_C++语言\01_C++语言入门\README.md
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_面积", "02_数据结构\02_队列\01_面积\01_面积.vcxproj", "{97837CB6-8BE6-4594-8C59-5C3DB5062B10}"
 EndProject
@@ -113,6 +116,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_动态规划经典题", "03_动态规划经典题", "{3DF6EDC0-3D21-45C4-89E4-3F0A29EB01F9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_顺序结构程序设计", "02_顺序结构程序设计", "{1CFEB690-38EE-42A4-A7DC-37A9B9807A7D}"
+	ProjectSection(SolutionItems) = preProject
+		00_C++语言\02_顺序结构程序设计\README.md = 00_C++语言\02_顺序结构程序设计\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_程序的控制结构", "03_程序的控制结构", "{799C0617-DC21-4521-B71D-B474233CEF22}"
 EndProject
@@ -153,6 +159,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_switch语句", "02_switch语句", "{5929C4F2-D994-44CB-87B3-372DA418B382}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_运算符和表达式", "01_运算符和表达式", "{6437CF81-831E-47DC-8FA2-BF3B7FBE6832}"
+	ProjectSection(SolutionItems) = preProject
+		00_C++语言\02_顺序结构程序设计\01_运算符和表达式\README.md = 00_C++语言\02_顺序结构程序设计\01_运算符和表达式\README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_常量和变量", "02_常量和变量", "{0DA15BE5-CE61-4107-BFE8-1ADB1D3957AD}"
 EndProject
