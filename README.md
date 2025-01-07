@@ -69,9 +69,11 @@
 
 关注我们的公众号，获取更多学习资源和技术干货：
 
-|智野科技研学探索|智野少年|科技魏来说|
----|---|---
-![](doc/images/zy_wfh.jpg)|![](doc/images/zy_dyh.jpg)|![](doc/images/kjwls.jpg)
+ <div style="display: flex; justify-content: space-around;">
+    <img src="doc/images/zy_fwh.jpg" alt="智野科技研学探索" width="200px">
+    <img src="doc/images/zy_dyh.jpg" alt="智野少年" width="200px">
+    <img src="doc/images/kjwls.jpg" alt="科技魏来说" width="200px">
+</div>
 
 [2024/12/22]
 
