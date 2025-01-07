@@ -1,6 +1,4 @@
-<div style="width:480px;">
-    <image src="doc/images/logo-title.png">
-</div>
+<image src="doc/images/logo-title.png" width="360px"/>
 
 # 信息奥林匹克竞赛 C++ 学习项目
 
@@ -68,6 +66,12 @@
 祝您在信息学奥林匹克竞赛的学习道路上取得成功！
 
 [FutureWL/魏来](https://github.com/FutureWL)
+
+关注我们的公众号，获取更多学习资源和技术干货：
+
+|智野科技研学探索|智野少年|科技魏来说|
+---|---|---
+![](doc/images/zy_wfh.jpg)|![](doc/images/zy_dyh.jpg)|![](doc/images/kjwls.jpg)
 
 [2024/12/22]
 
