@@ -71,7 +71,7 @@
 
 |智野科技研学探索|智野少年|科技魏来说|
 ---|---|---
-![](doc/images/zy_wfh.jpg)|![](doc/images/zy_dyh.jpg)|![](doc/images/kjwls.jpg)
+![](doc/images/zy_fwh.jpg)|![](doc/images/zy_dyh.jpg)|![](doc/images/kjwls.jpg)
 
 [2024/12/22]
 
