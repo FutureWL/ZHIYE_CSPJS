@@ -1,6 +1,4 @@
-<div style="width:480px;">
-    <image src="doc/images/logo-title.png">
-</div>
+<image src="doc/images/logo-title.png" width="360px"/>
 
 # 信息奥林匹克竞赛 C++ 学习项目
 
