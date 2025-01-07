@@ -1,4 +1,4 @@
-<div style="width:480px;">
+<div style="width:480px">
     <image src="doc/images/logo-title.png">
 </div>
 
